@@ -1,6 +1,1 @@
-# fitness-app
-# fitness-app
-SUPABASE_URL=https://dpxghpwqtwimwqvbefqy.supabase.co
-SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRweGdocHdxdHdpbXdxdmJlZnF5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NjExOTQ0NiwiZXhwIjoyMDkxNjk1NDQ2fQ.XNhXK-2S12OIIlIytyS36S2r2IwYgU03tX-kodnNHDI
-JWT_SECRET=y+45eZFdltJaom7m0h6xKFICk0YcfacI8/mxuLK2lseGAzR9Rp+Hw62v5PyFO/2+Cpi1uP5sCl1qCrRVIVzbjg==
 
